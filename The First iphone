@@ -9,5 +9,24 @@
     <p>At first iphones were super small in size. Recently it is almost like tech is reverting, apple phones have become massive in both size and popularity.</p>
 
 <footer>
+    <table border="2">
+        <tr>
+         <th>the milestones of apple to the iphone 14</th>
+        </tr>
+        <tr>
+         <td class="important"><a href="Creation of Apple">creation of apple</td></a>
+         <td class="important"><a href="The First iphone">the first iphone</td></a>
+         <td class="important"><a href="developement of apple">developement of apple</td></a>
+         <td class="important"><a href="The rumored iphone14">the rumored iphone14</td></a>
+         <td class="important"><a href="The iphone14">iphone14</td></a>
+    </tr>
+    <tr>
+     <td >1970</td>
+     <td>2007</td>
+     <td>2010</td>
+     <td>2022</td>
+     <td>2024</td>
+    </tr>
+     </table>
     
 </footer>

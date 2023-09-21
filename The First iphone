@@ -2,6 +2,7 @@
 <head>
     <header>
     <title> The first iphone</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
 </header>
 </head>
 <main>

@@ -1,4 +1,15 @@
 <!DOCTYPE html>
 <head>
+    <header>
     <title>The Developemnet of apple</title>
+</header>
 </head>
+<main>
+    <img src="https://image.cnbcfm.com/api/v1/image/106297361-157650253778312152019_apple_market_cap_annotated.png?v=1576502548&w=740&h=416&ffmt=webp&vtcrop=y" alt="developement" class="center">
+    <p>At first just a concept. It would become an everyday item.</p>
+
+</main>
+
+<footer>
+
+</footer>
